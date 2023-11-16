@@ -1,4 +1,4 @@
-# Python-practice
+# Файл main.py
 
 ## Задача 1
 
